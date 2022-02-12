@@ -20,3 +20,7 @@ Result:
 
 ## Contact and connect
 [Leo Tisljaric](https://www.linkedin.com/in/leo-ti%C5%A1ljari%C4%87-28a56b123/)
+
+
+## 1. Get the map
+The map can be downloaded from https://www.openstreetmap.org/export. Just choose the part of the map that you need by clicking “Manually select a different area.” Write down the coordinates of the upper left, and lower right corners in this case (45.8357, 15.9645) and (45.6806, 16.1557).
